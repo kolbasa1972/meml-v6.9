@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following."
+authors:
+  - family-names: "Юров"
+    given-names: "Дмитрий В."
+    orcid: "https://orcid.org/0009-0006-5467-7510"
+title: "MEML v6.9: Модель единого мирового листа в 6 измерениях"
+version: 6.9
+date-released: 2026-10-09
+license: MIT
+repository-code: "https://github.com/kolbasa1972/meml-v6.9"
+keywords:
+  - 6D quantum field theory
+  - T^2/Z_3 orbifold
+  - charge quantization
+  - sterile neutrino
+  - dark matter
+  - asymptotic safety

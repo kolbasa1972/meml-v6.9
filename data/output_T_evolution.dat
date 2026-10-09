@@ -1,0 +1,583 @@
+ Read in           15  fields from params.ini                                                                                                                      
+ Initialized Data repository
+ Read in          461  independent parameters and            2  dependent parameters from data/tables/SMgstar.dat
+ Read in         2001  independent parameters and            1  dependent parameters from data/tables/ParticleChiTable.dat
+ Read in         2001  independent parameters and            1  dependent parameters from data/tables/EFermi.dat
+ Read in         1999  independent parameters and            3  dependent parameters from data/tables/ChiTable_alltemp.dat
+ Read in         1999  independent parameters and            8  dependent parameters from data/tables/dmudLe.dat
+ Read in         1999  independent parameters and            8  dependent parameters from data/tables/dmudLmu.dat
+ Read in         1999  independent parameters and            8  dependent parameters from data/tables/dmudLtau.dat
+ Read in          101  independent parameters and           45  dependent parameters from data/tables/rate_total_mu.dat
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Above warning has been issued I1 times.                                
+       It will not be issued again for this problem                              
+      In above message,  I1 =        10
+ No. steps =   51009  No. f-s =   60201  No. J-s =       0 Method last used =**   Last switch was at T=  0.0000D+00
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Above warning has been issued I1 times.                                
+       It will not be issued again for this problem                              
+      In above message,  I1 =        10
+ No. steps =  101434  No. f-s =  126653  No. J-s =       0 Method last used =**   Last switch was at T=  0.0000D+00
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Above warning has been issued I1 times.                                
+       It will not be issued again for this problem                              
+      In above message,  I1 =        10
+ No. steps =   81302  No. f-s =   98970  No. J-s =       0 Method last used =**   Last switch was at T=  0.0000D+00
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Above warning has been issued I1 times.                                
+       It will not be issued again for this problem                              
+      In above message,  I1 =        10
+ No. steps =   80419  No. f-s =   97574  No. J-s =       0 Method last used =**   Last switch was at T=  0.0000D+00
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Above warning has been issued I1 times.                                
+       It will not be issued again for this problem                              
+      In above message,  I1 =        10
+ No. steps =   80387  No. f-s =   97599  No. J-s =       0 Method last used =**   Last switch was at T=  0.0000D+00
+Ошибка в синтаксисе команды.
+ T=   10000.000000000000      t=   2.6335409739583909E-009 ln(a/a_i)=   0.0000000000000000      L/T^3=   2.9711059198674187E-003 Omega_wdm h^2=   0.0000000000000000     
+Ошибка в синтаксисе команды.
+ T=   9326.0334688321982      t=   3.0295747626926685E-009 ln(a/a_i)=   7.0050858449036829E-002 L/T^3=   2.9686508468761059E-003 Omega_wdm h^2=   3.0247322449493908E-015
+Ошибка в синтаксисе команды.
+ T=   8697.4900261778330      t=   3.4848687543239640E-009 ln(a/a_i)=  0.14006725874540871      L/T^3=   2.9665044475888054E-003 Omega_wdm h^2=   8.6342128820250144E-015
+Ошибка в синтаксисе команды.
+ T=   8111.3083078968712      t=   4.0083644692091106E-009 ln(a/a_i)=  0.21006316440460246      L/T^3=   2.9645418661508960E-003 Omega_wdm h^2=   1.9029880412013211E-014
+Ошибка в синтаксисе команды.
+ T=   7564.6332755462890      t=   4.6103607497359553E-009 ln(a/a_i)=  0.28005067550006685      L/T^3=   2.9626551927515706E-003 Omega_wdm h^2=   3.8275524734406796E-014
+Ошибка в синтаксисе команды.
+ T=   7054.8023107186436      t=   5.3027174293671861E-009 ln(a/a_i)=  0.35003994315772485      L/T^3=   2.9607541177662962E-003 Omega_wdm h^2=   7.3858851117410648E-014
+Ошибка в синтаксисе команды.
+ T=   6579.3322465756801      t=   6.0990906601607224E-009 ln(a/a_i)=  0.42003930303002879      L/T^3=   2.9587646798453168E-003 Omega_wdm h^2=   1.3954515704242164E-013
+Ошибка в синтаксисе команды.
+ T=   6135.9072734131732      t=   7.0152057418046143E-009 ln(a/a_i)=  0.49005559319009379      L/T^3=   2.9566264053054346E-003 Omega_wdm h^2=   2.6057323978686598E-013
+Ошибка в синтаксисе команды.
+ T=   5722.3676593502178      t=   8.0691739983941581E-009 ln(a/a_i)=  0.56009458129282341      L/T^3=   2.9542885003904311E-003 Omega_wdm h^2=   4.8307458499154359E-013
+Ошибка в синтаксисе команды.
+ T=   5336.6992312063103      t=   9.2818601152982307E-009 ln(a/a_i)=  0.63016136986169025      L/T^3=   2.9517062574384340E-003 Omega_wdm h^2=   8.9104842852759697E-013
+Ошибка в синтаксисе команды.
+ T=   4977.0235643321112      t=   1.0677309284420446E-008 ln(a/a_i)=  0.70026081024893239      L/T^3=   2.9488374026804534E-003 Omega_wdm h^2=   1.6367836351514942E-012
+Ошибка в синтаксисе команды.
+ T=   4641.5888336127791      t=   1.2283243814543963E-008 ln(a/a_i)=  0.77039786657448328      L/T^3=   2.9456389085770829E-003 Omega_wdm h^2=   2.9949095038614943E-012
+Ошибка в синтаксисе команды.
+ T=   4328.7612810830587      t=   1.4131635778903435E-008 ln(a/a_i)=  0.84057773683993608      L/T^3=   2.9420659751853255E-003 Omega_wdm h^2=   5.4575563581136122E-012
+Ошибка в синтаксисе команды.
+ T=   4037.0172585965552      t=   1.6259379747654819E-008 ln(a/a_i)=  0.91080621186913524      L/T^3=   2.9380689319275419E-003 Omega_wdm h^2=   9.8999758266926046E-012
+Ошибка в синтаксисе команды.
+ T=   3764.9358067924686      t=   1.8709067428756448E-008 ln(a/a_i)=  0.98108967884989229      L/T^3=   2.9335933069978195E-003 Omega_wdm h^2=   1.7864663161748494E-011
+Ошибка в синтаксисе команды.
+ T=   3511.1917342151319      t=   2.1529895343235076E-008 ln(a/a_i)=   1.0514352967313838      L/T^3=   2.9285784075989679E-003 Omega_wdm h^2=   3.2040530970355420E-011
+Ошибка в синтаксисе команды.
+ T=   3274.5491628777290      t=   2.4778720818959605E-008 ln(a/a_i)=   1.1218510668085040      L/T^3=   2.9229568607488663E-003 Omega_wdm h^2=   5.7052324431057708E-011
+Ошибка в синтаксисе команды.
+ T=   3053.8555088334160      t=   2.8521296629267642E-008 ln(a/a_i)=   1.1923459274610737      L/T^3=   2.9166539830533500E-003 Omega_wdm h^2=   1.0072886346016349E-010
+Ошибка в синтаксисе команды.
+ T=   2848.0358684358021      t=   3.2833713086326719E-008 ln(a/a_i)=   1.2629298047135744      L/T^3=   2.9095875878610233E-003 Omega_wdm h^2=   1.7606438236785006E-010
+Ошибка в синтаксисе команды.
+ T=   2656.0877829466867      t=   3.7804088882552229E-008 ln(a/a_i)=   1.3336136933681046      L/T^3=   2.9016675826786390E-003 Omega_wdm h^2=   3.0411921795885545E-010
+Ошибка в синтаксисе команды.
+ T=   2477.0763559917114      t=   4.3534559454105223E-008 ln(a/a_i)=   1.4044097827880668      L/T^3=   2.8927952505679259E-003 Omega_wdm h^2=   5.1805122299037769E-010
+Ошибка в синтаксисе команды.
+ T=   2310.1297000831601      t=   5.0143588656037576E-008 ln(a/a_i)=   1.4753312921545774      L/T^3=   2.8828651361526157E-003 Omega_wdm h^2=   8.6824505975974693E-010
+Ошибка в синтаксисе команды.
+ T=   2154.4346900318842      t=   5.7768725286801499E-008 ln(a/a_i)=   1.5463927437750558      L/T^3=   2.8717632122177835E-003 Omega_wdm h^2=   1.4279995361741408E-009
+Ошибка в синтаксисе команды.
+ T=   2009.2330025650476      t=   6.6569805870012700E-008 ln(a/a_i)=   1.6176097612905593      L/T^3=   2.8593692686259570E-003 Omega_wdm h^2=   2.2983616049155357E-009
+Ошибка в синтаксисе команды.
+ T=   1873.8174228603846      t=   7.6732749057596896E-008 ln(a/a_i)=   1.6889990893999183      L/T^3=   2.8455574743479696E-003 Omega_wdm h^2=   3.6095812117901707E-009
+Ошибка в синтаксисе команды.
+ T=   1747.5284000076842      t=   8.8474013507138567E-008 ln(a/a_i)=   1.7605784716855288      L/T^3=   2.8301982615108233E-003 Omega_wdm h^2=   5.5155448699454563E-009
+Ошибка в синтаксисе команды.
+ T=   1629.7508346206446      t=   1.0204585140264778E-007 ln(a/a_i)=   1.8323665059663745      L/T^3=   2.8131604840043265E-003 Omega_wdm h^2=   8.1775032075699179E-009
+Ошибка в синтаксисе команды.
+ T=   1519.9110829529341      t=   1.1774248730444841E-007 ln(a/a_i)=   1.9043824080403069      L/T^3=   2.7943144157989860E-003 Omega_wdm h^2=   1.1735474342038767E-008
+Ошибка в синтаксисе команды.
+ T=   1417.4741629268055      t=   1.3590738918405553E-007 ln(a/a_i)=   1.9766457271463775      L/T^3=   2.7735351760110410E-003 Omega_wdm h^2=   1.6270737829759262E-008
+Ошибка в синтаксисе команды.
+ T=   1321.9411484660293      t=   1.5694182074467885E-007 ln(a/a_i)=   2.0491760159909020      L/T^3=   2.7507065049826298E-003 Omega_wdm h^2=   2.1770031563049897E-008
+Ошибка в синтаксисе команды.
+ T=   1232.8467394420663      t=   1.8131485394827769E-007 ln(a/a_i)=   2.1219923481889000      L/T^3=   2.7257257012394793E-003 Omega_wdm h^2=   2.8107032562135879E-008
+Ошибка в синтаксисе команды.
+ T=   1149.7569953977361      t=   2.0957514354963985E-007 ln(a/a_i)=   2.1951129121136077      L/T^3=   2.6985077223568542E-003 Omega_wdm h^2=   3.5057886226764556E-008
+Ошибка в синтаксисе команды.
+ T=   1072.2672220103236      t=   2.4236468131850789E-007 ln(a/a_i)=   2.2685544746438544      L/T^3=   2.6689900661924682E-003 Omega_wdm h^2=   4.2359760539895975E-008
+Ошибка в синтаксисе команды.
+ T=   1000.0000000000003      t=   2.8043475670890318E-007 ln(a/a_i)=   2.3423316407274393      L/T^3=   2.6371388528044770E-003 Omega_wdm h^2=   4.9808156292802192E-008
+Ошибка в синтаксисе команды.
+ T=   932.60334688322018      t=   3.2466495291049659E-007 ln(a/a_i)=   2.4164568497912717      L/T^3=   2.6029485130543688E-003 Omega_wdm h^2=   5.7368699581250250E-008
+Ошибка в синтаксисе команды.
+ T=   869.74900261778362      t=   3.7608468299740867E-007 ln(a/a_i)=   2.4909393051348072      L/T^3=   2.5664494116570498E-003 Omega_wdm h^2=   6.5275943054543998E-008
+Ошибка в синтаксисе команды.
+ T=   811.13083078968737      t=   4.3589855942821766E-007 ln(a/a_i)=   2.5657846887358424      L/T^3=   2.5277084795504445E-003 Omega_wdm h^2=   7.4096132357324693E-008
+Ошибка в синтаксисе команды.
+ T=   756.46332755462913      t=   5.0551579227004191E-007 ln(a/a_i)=   2.6409948582079381      L/T^3=   2.4868293748855608E-003 Omega_wdm h^2=   8.5517971425606421E-008
+Ошибка в синтаксисе команды.
+ T=   705.48023107186452      t=   5.8658400606865057E-007 ln(a/a_i)=   2.7165674269115843      L/T^3=   2.4439528712407307E-003 Omega_wdm h^2=   1.0245847817734323E-007
+Ошибка в синтаксисе команды.
+ T=   657.93322465756819      t=   6.8102810702847473E-007 ln(a/a_i)=   2.7924954152553108      L/T^3=   2.3992560142413401E-003 Omega_wdm h^2=   1.2858856506281755E-007
+Ошибка в синтаксисе команды.
+ T=   613.59072734131746      t=   7.9109481470565718E-007 ln(a/a_i)=   2.8687670160880123      L/T^3=   2.3529498213107126E-003 Omega_wdm h^2=   1.7101421326467535E-007
+Ошибка в синтаксисе команды.
+ T=   572.23676593502194      t=   9.1940328830333267E-007 ln(a/a_i)=   2.9453653818437910      L/T^3=   2.3052763292037439E-003 Omega_wdm h^2=   2.4632757365676562E-007
+Ошибка в синтаксисе команды.
+ T=   533.66992312063121      t=   1.0690024202851811E-006 ln(a/a_i)=   3.0222685238203666      L/T^3=   2.2565044933094340E-003 Omega_wdm h^2=   3.8751620053965353E-007
+Ошибка в синтаксисе команды.
+ T=   497.70235643321132      t=   1.2434353744453687E-006 ln(a/a_i)=   3.0994493954076496      L/T^3=   2.2069246524295144E-003 Omega_wdm h^2=   6.6683601158238829E-007
+Ошибка в синтаксисе команды.
+ T=   464.15888336127813      t=   1.4468128207428635E-006 ln(a/a_i)=   3.1768765271027819      L/T^3=   2.1568394249693755E-003 Omega_wdm h^2=   1.2661339169920302E-006
+Ошибка в синтаксисе команды.
+ T=   432.87612810830609      t=   1.6838967530270257E-006 ln(a/a_i)=   3.2545153532354938      L/T^3=   2.1065510200345468E-003 Omega_wdm h^2=   2.5333032256581485E-006
+Ошибка в синтаксисе команды.
+ T=   403.70172585965571      t=   1.9601878175830463E-006 ln(a/a_i)=   3.3323277380882175      L/T^3=   2.0563604780192554E-003 Omega_wdm h^2=   5.3206675564707405E-006
+Ошибка в синтаксисе команды.
+ T=   376.49358067924703      t=   2.2821077710610982E-006 ln(a/a_i)=   3.4102919350602590      L/T^3=   2.0064427480677815E-003 Omega_wdm h^2=   1.1786993116350292E-005
+Ошибка в синтаксисе команды.
+ T=   351.11917342151332      t=   2.6570401293880075E-006 ln(a/a_i)=   3.4883778259458778      L/T^3=   1.9570030425973190E-003 Omega_wdm h^2=   2.5970273439101281E-005
+Ошибка в синтаксисе команды.
+ T=   327.45491628777302      t=   3.0936677324204455E-006 ln(a/a_i)=   3.5665867678572547      L/T^3=   1.9080298340824631E-003 Omega_wdm h^2=   5.9163130645557472E-005
+Ошибка в синтаксисе команды.
+ T=   305.38555088334169      t=   3.6022205244820942E-006 ln(a/a_i)=   3.6449467340812327      L/T^3=   1.8593420918409005E-003 Omega_wdm h^2=   1.3122755503988540E-004
+Ошибка в синтаксисе команды.
+ T=   284.80358684358032      t=   4.1939169339477504E-006 ln(a/a_i)=   3.7234036025582404      L/T^3=   1.8111439343500709E-003 Omega_wdm h^2=   2.9351286667175081E-004
+Ошибка в синтаксисе команды.
+ T=   265.60877829466875      t=   4.8851531243414619E-006 ln(a/a_i)=   3.8022990952531006      L/T^3=   1.7614260588907501E-003 Omega_wdm h^2=   6.3323293033863009E-004
+Ошибка в синтаксисе команды.
+ T=   247.70763559917120      t=   5.6932226754931783E-006 ln(a/a_i)=   3.8816988444397689      L/T^3=   1.7096288118589671E-003 Omega_wdm h^2=   1.3073726785711316E-003
+Ошибка в синтаксисе команды.
+ T=   231.01297000831607      t=   6.6414302503030191E-006 ln(a/a_i)=   3.9619106878194557      L/T^3=   1.6536149248128327E-003 Omega_wdm h^2=   2.6429781266777484E-003
+Ошибка в синтаксисе команды.
+ T=   215.44346900318845      t=   7.7733885980582677E-006 ln(a/a_i)=   4.0442567984004896      L/T^3=   1.5862143305992115E-003 Omega_wdm h^2=   5.1167999497672336E-003
+Ошибка в синтаксисе команды.
+ T=   200.92330025650480      t=   9.2749554352732303E-006 ln(a/a_i)=   4.1372580991041596      L/T^3=   1.4659389254506482E-003 Omega_wdm h^2=   1.0374992364677812E-002
+Ошибка в синтаксисе команды.
+ T=   187.38174228603850      t=   1.1540940150642502E-005 ln(a/a_i)=   4.2532688079728267      L/T^3=   1.2432656573378921E-003 Omega_wdm h^2=   2.2630253877173271E-002
+Ошибка в синтаксисе команды.
+ T=   174.75284000076849      t=   1.4554855200680571E-005 ln(a/a_i)=   4.3772511282283171      L/T^3=   9.7090281470593308E-004 Omega_wdm h^2=   5.4771007021902421E-002
+Ошибка в синтаксисе команды.
+ T=   162.97508346206450      t=   1.8059161836148006E-005 ln(a/a_i)=   4.4929041074686236      L/T^3=   5.3410710019402422E-004 Omega_wdm h^2=  0.17694184272442018     
+Ошибка в синтаксисе команды.
+ T=   151.99110829529346      t=   2.2125712900619924E-005 ln(a/a_i)=   4.6018083374146999      L/T^3=   2.1569256647609045E-004 Omega_wdm h^2=  0.26484838732347310     
+Ошибка в синтаксисе команды.
+ T=   141.74741629268061      t=   2.6740808740404860E-005 ln(a/a_i)=   4.7032113138292670      L/T^3=   1.9472565809684284E-004 Omega_wdm h^2=  0.24165912281291049     
+Ошибка в синтаксисе команды.
+ T=   132.19411484660299      t=   3.1951983180162392E-005 ln(a/a_i)=   4.7982072974713175      L/T^3=   1.7995554403379407E-004 Omega_wdm h^2=  0.22447062260762329     
+Ошибка в синтаксисе команды.
+ T=   123.28467394420669      t=   3.7825075377346872E-005 ln(a/a_i)=   4.8878902672939946      L/T^3=   1.6922498434402834E-004 Omega_wdm h^2=  0.21174544954304217     
+Ошибка в синтаксисе команды.
+ T=   114.97569953977364      t=   4.4453123646213591E-005 ln(a/a_i)=   4.9733503437026938      L/T^3=   1.6128251443719893E-004 Omega_wdm h^2=  0.20222547950138742     
+Ошибка в синтаксисе команды.
+ T=   107.22672220103239      t=   5.1958920697565760E-005 ln(a/a_i)=   5.0555852161923589      L/T^3=   1.5527192157106142E-004 Omega_wdm h^2=  0.19496794457315691     
+Ошибка в синтаксисе команды.
+ T=   100.00000000000006      t=   6.0494482037566940E-005 ln(a/a_i)=   5.1354346825907351      L/T^3=   1.5059556819267079E-004 Omega_wdm h^2=  0.18928856198256250     
+Ошибка в синтаксисе команды.
+ T=   93.260334688322047      t=   7.0241415196525660E-005 ln(a/a_i)=   5.2135690148027720      L/T^3=   1.4683475766998782E-004 Omega_wdm h^2=  0.18469768843371778     
+Ошибка в синтаксисе команды.
+ T=   86.974900261778387      t=   8.1412940028645947E-005 ln(a/a_i)=   5.2905065149538011      L/T^3=   1.4369523823787843E-004 Omega_wdm h^2=  0.18084684975565518     
+Ошибка в синтаксисе команды.
+ T=   81.113083078968756      t=   9.4257750778802330E-005 ln(a/a_i)=   5.3666415864634445      L/T^3=   1.4096904001223117E-004 Omega_wdm h^2=  0.17748777115913694     
+Ошибка в синтаксисе команды.
+ T=   75.646332755462936      t=   1.0906553364173975E-004 ln(a/a_i)=   5.4422725624424144      L/T^3=   1.3850811385597236E-004 Omega_wdm h^2=  0.17444284108579422     
+Ошибка в синтаксисе команды.
+ T=   70.548023107186481      t=   1.2617408081666817E-004 ln(a/a_i)=   5.5176251180459346      L/T^3=   1.3620634894402419E-004 Omega_wdm h^2=  0.17158408679852338     
+Ошибка в синтаксисе команды.
+ T=   65.793322465756845      t=   1.4597773033156222E-004 ln(a/a_i)=   5.5928698523573379      L/T^3=   1.3398761774734242E-004 Omega_wdm h^2=  0.16881961505278137     
+Ошибка в синтаксисе команды.
+ T=   61.359072734131772      t=   1.6893703512716875E-004 ln(a/a_i)=   5.6681346595450490      L/T^3=   1.3179793600995575E-004 Omega_wdm h^2=  0.16608395580627250     
+Ошибка в синтаксисе команды.
+ T=   57.223676593502212      t=   1.9559014149029430E-004 ln(a/a_i)=   5.7435135545275244      L/T^3=   1.2960017912661188E-004 Omega_wdm h^2=  0.16333286530311247     
+Ошибка в синтаксисе команды.
+ T=   53.366992312063132      t=   2.2656408469121629E-004 ln(a/a_i)=   5.8190712551376151      L/T^3=   1.2737097938892515E-004 Omega_wdm h^2=  0.16053747143940472     
+Ошибка в синтаксисе команды.
+ T=   49.770235643321143      t=   2.6259008829579477E-004 ln(a/a_i)=   5.8948470578142018      L/T^3=   1.2509839987597391E-004 Omega_wdm h^2=  0.15768422777655458     
+Ошибка в синтаксисе команды.
+ T=   46.415888336127821      t=   3.0451779436882465E-004 ln(a/a_i)=   5.9708564559602930      L/T^3=   1.2278041085473274E-004 Omega_wdm h^2=  0.15477158739769181     
+Ошибка в синтаксисе команды.
+ T=   43.287612810830616      t=   3.5332944241510536E-004 ln(a/a_i)=   6.0470915320297332      L/T^3=   1.2042389547728829E-004 Omega_wdm h^2=  0.15180757560637742     
+Ошибка в синтаксисе команды.
+ T=   40.370172585965577      t=   4.1015370806456294E-004 ln(a/a_i)=   6.1235226156008729      L/T^3=   1.1804316247905648E-004 Omega_wdm h^2=  0.14881182182171962     
+Ошибка в синтаксисе команды.
+ T=   37.649358067924709      t=   4.7628867805797143E-004 ln(a/a_i)=   6.2000995070351852      L/T^3=   1.1565891127591129E-004 Omega_wdm h^2=  0.14581039477459787     
+Ошибка в синтаксисе команды.
+ T=   35.111917342151344      t=   5.5321308076290883E-004 ln(a/a_i)=   6.2767531448160945      L/T^3=   1.1329675020117292E-004 Omega_wdm h^2=  0.14283591908737348     
+Ошибка в синтаксисе команды.
+ T=   32.745491628777316      t=   6.4260262148777057E-004 ln(a/a_i)=   6.3533986124105510      L/T^3=   1.1098554738998875E-004 Omega_wdm h^2=  0.13992506592443282     
+Ошибка в синтаксисе команды.
+ T=   30.538555088334185      t=   7.4635062272193869E-004 ln(a/a_i)=   6.4299391626661899      L/T^3=   1.0875572358937872E-004 Omega_wdm h^2=  0.13711578404248312     
+Ошибка в синтаксисе команды.
+ T=   28.480358684358045      t=   8.6658459623202978E-004 ln(a/a_i)=   6.5062713717602314      L/T^3=   1.0663732548743486E-004 Omega_wdm h^2=  0.13444669693061140     
+Ошибка в синтаксисе команды.
+ T=   26.560877829466889      t=   1.0056917997982235E-003 ln(a/a_i)=   6.5822912867467531      L/T^3=   1.0465819712282082E-004 Omega_wdm h^2=  0.13195280846332388     
+Ошибка в синтаксисе команды.
+ T=   24.770763559917135      t=   1.1663478524116914E-003 ln(a/a_i)=   6.6579010316770253      L/T^3=   1.0284227147403722E-004 Omega_wdm h^2=  0.12966435667076343     
+Ошибка в синтаксисе команды.
+ T=   23.101297000831622      t=   1.3515568176664717E-003 ln(a/a_i)=   6.7330155499681652      L/T^3=   1.0120810482771327E-004 Omega_wdm h^2=  0.12760477077392973     
+Ошибка в синтаксисе команды.
+ T=   21.544346900318860      t=   1.5647060546338510E-003 ln(a/a_i)=   6.8075689934811958      L/T^3=   9.9767695390164256E-005 Omega_wdm h^2=  0.12578941712719002     
+Ошибка в синтаксисе команды.
+ T=   20.092330025650494      t=   1.8096402865880321E-003 ln(a/a_i)=   6.8815196715720726      L/T^3=   9.8525802538942890E-005 Omega_wdm h^2=  0.12422425836180240     
+Ошибка в синтаксисе команды.
+ T=   18.738174228603860      t=   2.0907474031790297E-003 ln(a/a_i)=   6.9548511741535375      L/T^3=   9.7480289861041862E-005 Omega_wdm h^2=  0.12290627961483937     
+Ошибка в синтаксисе команды.
+ T=   17.475284000076858      t=   2.4130647917924661E-003 ln(a/a_i)=   7.0275744880907922      L/T^3=   9.6621977972405690E-005 Omega_wdm h^2=  0.12182439716233562     
+Ошибка в синтаксисе команды.
+ T=   16.297508346206460      t=   2.7824341694093827E-003 ln(a/a_i)=   7.0997249449830333      L/T^3=   9.5935952559855520E-005 Omega_wdm h^2=  0.12095969294938670     
+Ошибка в синтаксисе команды.
+ T=   15.199110829529355      t=   3.2056203782964373E-003 ln(a/a_i)=   7.1713552691497018      L/T^3=   9.5403546844622286E-005 Omega_wdm h^2=  0.12028848808311486     
+Ошибка в синтаксисе команды.
+ T=   14.174741629268068      t=   3.6905163246714391E-003 ln(a/a_i)=   7.2425356624353254      L/T^3=   9.5002243207716102E-005 Omega_wdm h^2=  0.11978275094721566     
+Ошибка в синтаксисе команды.
+ T=   13.219411484660306      t=   4.2462824173359823E-003 ln(a/a_i)=   7.3133400156013337      L/T^3=   9.4709410157982059E-005 Omega_wdm h^2=  0.11941364910007417     
+Ошибка в синтаксисе команды.
+ T=   12.328467394420676      t=   4.8835352329930507E-003 ln(a/a_i)=   7.3838406879117855      L/T^3=   9.4503537239610735E-005 Omega_wdm h^2=  0.11915416431625674     
+Ошибка в синтаксисе команды.
+ T=   11.497569953977372      t=   5.6145932258477634E-003 ln(a/a_i)=   7.4541077477805944      L/T^3=   9.4364226020603986E-005 Omega_wdm h^2=  0.11897857951879523     
+Ошибка в синтаксисе команды.
+ T=   10.722672220103245      t=   6.4536852772308787E-003 ln(a/a_i)=   7.5242027606621535      L/T^3=   9.4273762951161189E-005 Omega_wdm h^2=  0.11886457577592008     
+Ошибка в синтаксисе команды.
+ T=   10.000000000000012      t=   7.4173145618835904E-003 ln(a/a_i)=   7.5941830664908174      L/T^3=   9.4215802379251818E-005 Omega_wdm h^2=  0.11879152689864493     
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Above warning has been issued I1 times.                                
+       It will not be issued again for this problem                              
+      In above message,  I1 =        10
+ No. steps =   51711  No. f-s =   60743  No. J-s =       0 Method last used =**   Last switch was at T=  0.0000D+00
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Above warning has been issued I1 times.                                
+       It will not be issued again for this problem                              
+      In above message,  I1 =        10
+ No. steps =  104150  No. f-s =  126527  No. J-s =       0 Method last used =**   Last switch was at T=  0.0000D+00
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-15
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-14
+ DLSODE-  Above warning has been issued I1 times.                                
+       It will not be issued again for this problem                              
+      In above message,  I1 =        10
+ No. steps =   99814  No. f-s =  121171  No. J-s =       0 Method last used =**   Last switch was at T=  0.0000D+00
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-21
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-17
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              
+       such that in the machine, T + H = T on the next step                      
+       (H = step size). Solver will continue anyway                              
+      In above,  R1 =  0.1000000000000D+05   R2 = -0.4456466838864D-16
+ DLSODE-  Warning..internal T (=R1) and H (=R2) are                              

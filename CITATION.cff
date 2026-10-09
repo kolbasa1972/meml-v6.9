@@ -8,6 +8,7 @@ title: "MEML v6.9: Модель единого мирового листа в 6 
 version: 6.9
 date-released: 2026-10-09
 license: MIT
+doi: 10.5281/zenodo.23259768
 repository-code: "https://github.com/kolbasa1972/meml-v6.9"
 keywords:
   - 6D quantum field theory
